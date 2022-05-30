@@ -1,1 +1,1 @@
-My first shell redirection README
+Shell redirection README
